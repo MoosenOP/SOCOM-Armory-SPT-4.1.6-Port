@@ -1,0 +1,242 @@
+{
+  "693239a9f599f5ae5e02fdcf": {
+    "itemTplToClone": "bf822c61ce39580e026b6801",
+    "parentId": "FLASHHIDER",
+    "handbookParentId": "MOD_FLASHHIDER",
+    "overrideProperties": {
+      "DurabilityBurnModificator": 0.97,
+      "BackgroundColor": "violet",
+      "CoolFactor": 1.5,
+      "HeatFactor": 0.5,
+      "Recoil": -12,
+      "Ergonomics": -1,
+      "Accuracy": 5,
+      "Prefab": {
+        "path": "mods/ar15_muzzle_devices/huxwrks_556k_fh.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_id": "7eb5e81ff5285e4334e10b0a",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_muzzle",
+          "_parent": "693239a9f599f5ae5e02fdcf",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "f8e4f114d51be3084526ebdd",
+                  "6931ce971e7f5ddf5a940de7",
+                  "71da7f0c9145e92bd1022c53",
+                  "6931cea462f3e4d50a2a1cc6"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ],
+      "Weight": 0.104,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "AR-15 Huxwrx QD 5.56x45 Flash Hider",
+        "shortName": "QD 556",
+        "description": "The Flash Hider-QD 556 is designed to mitigate flash when unsuppressed. It is compatible with HX-QD series (556k, 556, 762, 762 Ti and Magnum Ti) and FLOW series (556k and 762 Ti) suppressors."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 18250,
+    "handbookPriceRoubles": 6200,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "693243da6b63b85b4e8a78ca": {
+    "itemTplToClone": "626667e87379c44d557b7550",
+    "parentId": "FLASHHIDER",
+    "handbookParentId": "MOD_FLASHHIDER",
+    "BackgroundColor": "violet",
+    "overrideProperties": {
+      "Loudness": 10,
+      "Prefab": {
+        "path": "mods/ar15_muzzle_devices/kac_mams.bundle",
+        "rcid": ""
+      },
+      "Recoil": -12,
+      "Ergonomics": -1,
+      "Weight": 0.11,
+      "CoolFactor": 1.5,
+      "HeatFactor": 0.5,
+      "Accuracy": 5,
+      "BackgroundColor": "violet",
+      "DurabilityBurnModificator": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "KAC MAMS Muzzle Device",
+        "shortName": "MAMS",
+        "description": "KAC MAMS 5.56 MUZZLE DEVICE"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 32500,
+    "handbookPriceRoubles": 4800,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6a52d0867b6942db5265a787": {
+    "itemTplToClone": "5dfa3cd1b33c0951220c079b",
+    "parentId": "FLASHHIDER",
+    "handbookParentId": "MOD_FLASHHIDER",
+    "BackgroundColor": "violet",
+    "overrideProperties": {
+      "Loudness": 10,
+      "Prefab": {
+        "path": "mods/ar15_muzzle_devices/kac_mams.bundle",
+        "rcid": ""
+      },
+      "Recoil": -12,
+      "Ergonomics": -1,
+      "Weight": 0.11,
+      "CoolFactor": 1.5,
+      "HeatFactor": 0.5,
+      "Accuracy": 5,
+      "BackgroundColor": "violet",
+      "DurabilityBurnModificator": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "KAC MAMS 7.62 Muzzle Device",
+        "shortName": "MAMS 7.62",
+        "description": "KAC MAMS 7.62 MUZZLE DEVICE"
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 32500,
+    "handbookPriceRoubles": 4800,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "masteries": true,
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "5447b5f14bdc2d61278b4567"
+        ]
+      }
+    ]
+  },
+  "692f1580f1aafb024b7207dc": {
+    "itemTplToClone": "5c7fb51d2e2216001219ce11",
+    "parentId": "FLASHHIDER",
+    "handbookParentId": "MOD_FLASHHIDER",
+    "BackgroundColor": "violet",
+    "overrideProperties": {
+      "Loudness": 10,
+      "Prefab": {
+        "path": "mods/ar15_muzzle_devices/sfmb_556.bundle",
+        "rcid": ""
+      },
+      "Recoil": -12,
+      "Ergonomics": -1,
+      "Weight": 0.11,
+      "Accuracy": 5,
+      "CoolFactor": 1.5,
+      "HeatFactor": 0.5,
+      "BackgroundColor": "violet",
+      "DurabilityBurnModificator": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Surefire SFMB 5.56x45 Muzzle brake",
+        "shortName": "SFMB",
+        "description": "SureFire SFMB muzzle brake suppressor adapters greatly reduce both recoil impulse and muzzle rise so that your weapon tracks straight back, keeping you on target for faster shot-to-shot recovery. Our proprietary Impulse Diffusion design minimizes side blast and rear-directed concussion effects."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 32500,
+    "handbookPriceRoubles": 4800,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  },
+  "6a53cd293e0b493932036257": {
+    "itemTplToClone": "544a38634bdc2d58388b4568",
+    "parentId": "FLASHHIDER",
+    "handbookParentId": "MOD_FLASHHIDER",
+    "BackgroundColor": "violet",
+    "overrideProperties": {
+      "Loudness": 5,
+      "Recoil": -9,
+      "Ergonomics": 0,
+      "Weight": 0.04,
+      "Accuracy": 5,
+      "CoolFactor": 1.5,
+      "HeatFactor": 0.5,
+      "BackgroundColor": "violet",
+      "DurabilityBurnModificator": 1,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense A2 Flash Hider",
+        "shortName": "DDM4 A2 Flash Hider",
+        "description": "Daniel Defense M4 platform rifles are premium, semi-automatic firearms built for reliability, precision, and durability. They are widely used by military, law enforcement, and civilian shooters."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_muzzle"
+    ],
+    "fleaPriceRoubles": 32500,
+    "handbookPriceRoubles": 4800,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": []
+  }
+}

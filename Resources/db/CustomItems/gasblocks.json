@@ -1,0 +1,62 @@
+{
+  "692f44b00fba3ad3050026e7": {
+    "itemTplToClone": "56eabcd4d2720b66698b4574",
+    "parentId": "56ea9461d2720b67698b456f",
+    "handbookParentId": "5b5f760586f774093e6cb509",
+    "overrideProperties": {
+      "BackgroundColor": "violet",
+      "ConflictingItems": [],
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "Ergonomics": 2,
+      "Accuracy": 2,
+      "Recoil": -3
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense MK12 Low Profile Gasblock",
+        "shortName": "DDM4",
+        "description": "Daniel Defense M4 platform rifles are premium, semi-automatic firearms built for reliability, precision, and durability. They are widely used by military, law enforcement, and civilian shooters."
+      }
+    },
+    "fleaPriceRoubles": 4000,
+    "handbookPriceRoubles": 2000,
+    "addtoBots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_gas_block"
+    ],
+    "addtoStaticLootContainers": false,
+    "addtoTraders": false
+  },
+  "6a64fa340910c8a5471bb624": {
+    "itemTplToClone": "5bb20dcad4351e3bac1212da",
+    "parentId": "56ea9461d2720b67698b456f",
+    "handbookParentId": "5b5f760586f774093e6cb509",
+    "overrideProperties": {
+      "BackgroundColor": "violet",
+      "ConflictingItems": [],
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "Ergonomics": 2,
+      "Accuracy": 2,
+      "Recoil": -3
+    },
+    "locales": {
+      "en": {
+        "name": "HK 416A5 low profile gas block enhanced by SOCOM",
+        "shortName": "416A5 GB Enhanced",
+        "description": "A SOCOM enhanced gas block for 416A5 assault rifles, manufactured by Heckler & Koch."
+      }
+    },
+    "fleaPriceRoubles": 4000,
+    "handbookPriceRoubles": 2000,
+    "addtoBots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_gas_block"
+    ],
+    "addtoStaticLootContainers": false,
+    "addtoTraders": false
+  }
+}

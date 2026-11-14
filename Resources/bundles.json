@@ -1,0 +1,84 @@
+{
+  "manifest": [
+    {
+      "key": "Attachments/Foregrips/foregrip_all_dd_vfg_blk_socom.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Foregrips/foregrip_all_dd_vfg_fde_socom.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Foregrips/foregrip_all_dd_vfg_gry_socom.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "dd_magazine_extended_socom.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "dd_magazine_fde_extended_socom.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "dd_magazine_fde_socom.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "dd_magazine_socom.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mods/Foregrips/kac_finger_socom.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mods/PistolGrips/b5_p22_fde_socom.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mods/PistolGrips/b5_p22_socom.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "commonassets/physics/physicsmaterials.bundle"
+      ]
+    }
+  ]
+}

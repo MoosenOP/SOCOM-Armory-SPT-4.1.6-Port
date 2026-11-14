@@ -1,0 +1,74 @@
+{
+  "6a64ffb12ee38cf18154b54a": {
+    "itemTplToClone": "5bb20d53d4351e4502010a69",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Ergonomics": 12,
+      "CoolFactor": 1.5,
+      "HeatFactor": 0.5,
+      "Recoil": -4,
+      "DurabilityBurnModificator": 0.5,
+      "Weight": 0.4,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "HK 416A5 5.56x45 upper receiver enhanced by SOCOM",
+        "shortName": "416A5 Upper Receiver Enhanced",
+        "description": "An upper receiver for the 416A5 assault rifle manufactured by Heckler & Koch. Equipped with a mount for attaching additional devices."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_reciever"
+    ],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 44572,
+    "handbookPriceRoubles": 29111,
+    "addtoStaticLootContainers": false,
+    "addtoBots": false
+  },
+  "6a6512fa81ae4a76680b419a": {
+    "itemTplToClone": "5bb2475ed4351e00853264e3",
+    "parentId": "5447b5f14bdc2d61278b4567",
+    "handbookParentId": "5b5f78fc86f77409407a7f90",
+    "overrideProperties": {
+      "BackgroundColor": "violet",
+      "bFirerate": 950,
+      "MaxDurability": 200,
+      "DurabilityBurnRatio": 0.5,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ExaminedByDefault": true,
+      "weapFireType": [
+        "single",
+        "fullauto"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "HK 416A5 5.56x45 assault rifle enhanced by SOCOM",
+        "shortName": "HK 416A5 Enhanced",
+        "description": "The HK416 A5 is a further development of the HK416 assault rifle in 5.56x45mm NATO caliber. The most striking changes compared to its previous versions as well as to market available AR platforms include an improved and tool-less gas regulator for suppressor use, a redesigned, user-friendly lower receiver, which allows complete ambidextrous operation of the weapon and ensures optimised magazine compatibility. Additionally, numerous technical improvements to maximize the safety of the operator, weapon reliability, ammunition compatibility, and durability under real operating conditions."
+      }
+    },
+    "fleaPriceRoubles": 80000,
+    "handbookPriceRoubles": 80000,
+    "addtoBots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+    "addtoTraders": false,
+    "masteries": true,
+    "masterySections": [
+      {
+        "Name": "HK 416A5",
+        "Templates": [
+          "5447b5f14bdc2d61278b4567"
+        ]
+      }
+    ]
+  }
+}

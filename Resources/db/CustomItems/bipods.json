@@ -1,0 +1,146 @@
+{
+  "692f15f339bcfe15b381c993": {
+    "itemTplToClone": "6644920d49817dc7d505ca71",
+    "parentId": "5a74651486f7744e73386dd1",
+    "handbookParentId": "5b5f71c186f77409407a7ec0",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "BackgroundColor": "violet",
+      "Prefab": {
+        "path": "mods/bipods/harris_bp_railmount.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": 2,
+      "Recoil": -5,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Harris 1A2-BRM Bipod with picatinny mount enhanced by SOCOM",
+        "shortName": "1A2-BRM Enhanced",
+        "description": "The Harris 1A2-BRM bipod made from aluminum alloys and hardened steel fittings, spring loaded for fast deployment and already affixed to a picatinny rail mount by a gracious person of tarkov, ready for use on most any platform."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip",
+      "mod_bipod",
+      "mod_tactical",
+      "mod_tactical_000",
+      "mod_tactical_001",
+      "mod_tactical_002",
+      "mod_tactical_003"
+    ],
+    "fleaPriceRoubles": 32522,
+    "handbookPriceRoubles": 5620,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "addtoTraders": false
+  },
+  "692f16020ef7a157f37edd97": {
+    "itemTplToClone": "671126b049e181972e0681fa",
+    "parentId": "5a74651486f7744e73386dd1",
+    "handbookParentId": "5b5f71c186f77409407a7ec0",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "BackgroundColor": "violet",
+      "Prefab": {
+        "path": "mods/bipods/magpul_bp.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": 3,
+      "Recoil": -6,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Magpul M-Lok bipod enhanced by SOCOM",
+        "shortName": "Magpul BP Enhanced",
+        "description": "The Magpul Bipod for M-LOK offers serious strength and versatility at a price that provides unmatched value. Our lightweight Mil-Spec hard anodized 6061 T-6 aluminum and injection-molded polymer bipod brings innovation in ergonomics, functionality, strength and value together."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_mount_000",
+      "mod_mount_001",
+      "mod_mount_002",
+      "mod_mount_003",
+      "mod_mount_004"
+    ],
+    "fleaPriceRoubles": 38200,
+    "handbookPriceRoubles": 4620,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "addtoTraders": false
+  },
+  "692f161039bff4430217b3f8": {
+    "itemTplToClone": "671126b049e181972e0681fa",
+    "parentId": "55818b224bdc2dde698b456f",
+    "handbookParentId": "5b5f755f86f77447ec5d770e",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "BackgroundColor": "violet",
+      "Prefab": {
+        "path": "assets/content/items/mods/mounts/mount_m_lok_magpul_2,5_inch_picatinny_rail_section.bundle",
+        "rcid": ""
+      },
+      "Slots": [
+        {
+          "_name": "mod_tactical",
+          "_id": "399f35b04a47145b6a851bea",
+          "_parent": "692f161039bff4430217b3f8",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "692f15f339bcfe15b381c993",
+                  "6644920d49817dc7d505ca71"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Magpul M-LOK 2.5 inch rail (for bipods only) enhanced by SOCOM",
+        "shortName": "M-LOK 2.5 BP Enhaced",
+        "description": "The Magpul M-LOK 2.5 inch rail allows installation of additional equipment on the handguards with the standard M-LOK interface."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_mount_000",
+      "mod_mount_001",
+      "mod_mount_002",
+      "mod_mount_003",
+      "mod_mount_004"
+    ],
+    "fleaPriceRoubles": 4250,
+    "handbookPriceRoubles": 1033,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "addtoTraders": false
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "6a618e219df394641e76e56d": {
+    "itemTplToClone": "5df8e4080b92095fd441e594",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "assets/content/items/mods/recievers/reciever_ar10_kac_sr25_upper_std.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": 8,
+      "CoolFactor": 1.5,
+      "HeatFactor": 0.5,
+      "Recoil": -5,
+      "DurabilityBurnModificator": 0.5,
+      "Weight": 0.4,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense DD5 AR-10 Upper Receiver",
+        "shortName": "DD5 Upper Receiver",
+        "description": "Daniel Defense DD5 AR-10 platform rifles are premium, semi-automatic firearms built for reliability, precision, and durability. They are widely used by military, law enforcement, and civilian shooters."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_reciever"
+    ],
+    "addtoTraders": false,
+    "fleaPriceRoubles": 44572,
+    "handbookPriceRoubles": 29111,
+    "addtoStaticLootContainers": false,
+    "addtoBots": false
+  },
+  "6a618e918bfe24c6ba2d378b": {
+    "itemTplToClone": "5df8ce05b11454561e39243b",
+    "parentId": "5447b6194bdc2d67278b4567",
+    "handbookParentId": "5b5f791486f774093f2ed3be",
+    "overrideProperties": {
+      "BackgroundColor": "violet",
+      "bFirerate": 400,
+      "MaxDurability": 200,
+      "DurabilityBurnRatio": 0.5,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ExaminedByDefault": true,
+      "weapFireType": [
+        "single"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense DD5",
+        "shortName": "DD5",
+        "description": "Daniel Defense DD5 AR-10 platform rifles are premium firearms built for reliability, precision, and durability. They are widely used by military, law enforcement, and civilian shooters."
+      }
+    },
+    "fleaPriceRoubles": 80000,
+    "handbookPriceRoubles": 80000,
+    "addtoBots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+    "addtoTraders": false,
+    "masteries": true,
+    "masterySections": [
+      {
+        "Name": "SR-25",
+        "Templates": [
+          "5447b6194bdc2d67278b4567"
+        ]
+      }
+    ]
+  },
+  "6a61a67aec429d48083458c9": {
+    "itemTplToClone": "5df8ce05b11454561e39243b",
+    "parentId": "5447b6194bdc2d67278b4567",
+    "handbookParentId": "5b5f791486f774093f2ed3be",
+    "overrideProperties": {
+      "BackgroundColor": "violet",
+      "bFirerate": 400,
+      "MaxDurability": 200,
+      "DurabilityBurnRatio": 0.5,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ExaminedByDefault": true,
+      "weapFireType": [
+        "single"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense DD5 V3",
+        "shortName": "DD5 V3",
+        "description": "Daniel Defense DD5 AR-10 platform rifles are premium firearms built for reliability, precision, and durability. They are widely used by military, law enforcement, and civilian shooters."
+      }
+    },
+    "fleaPriceRoubles": 80000,
+    "handbookPriceRoubles": 80000,
+    "addtoBots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+    "addtoTraders": false,
+    "masteries": true,
+    "masterySections": [
+      {
+        "Name": "SR-25",
+        "Templates": [
+          "5447b6194bdc2d67278b4567"
+        ]
+      }
+    ]
+  },
+  "6a61a68aab629f7d022f0cb4": {
+    "itemTplToClone": "5df8ce05b11454561e39243b",
+    "parentId": "5447b6194bdc2d67278b4567",
+    "handbookParentId": "5b5f791486f774093f2ed3be",
+    "overrideProperties": {
+      "BackgroundColor": "violet",
+      "bFirerate": 400,
+      "MaxDurability": 200,
+      "DurabilityBurnRatio": 0.5,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ExaminedByDefault": true,
+      "weapFireType": [
+        "single"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense DD5 V5",
+        "shortName": "DD5 V5",
+        "description": "Daniel Defense DD5 AR-10 platform rifles are premium firearms built for reliability, precision, and durability. They are widely used by military, law enforcement, and civilian shooters."
+      }
+    },
+    "fleaPriceRoubles": 80000,
+    "handbookPriceRoubles": 80000,
+    "addtoBots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+    "addtoTraders": false,
+    "masteries": true,
+    "masterySections": [
+      {
+        "Name": "SR-25",
+        "Templates": [
+          "5447b6194bdc2d67278b4567"
+        ]
+      }
+    ]
+  },
+  "6a624312b96c49da4df35a6b": {
+    "itemTplToClone": "5df8ce05b11454561e39243b",
+    "parentId": "5447b6194bdc2d67278b4567",
+    "handbookParentId": "5b5f791486f774093f2ed3be",
+    "overrideProperties": {
+      "BackgroundColor": "violet",
+      "bFirerate": 400,
+      "MaxDurability": 200,
+      "DurabilityBurnRatio": 0.5,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ExaminedByDefault": true,
+      "weapFireType": [
+        "single"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense DD5 SBR",
+        "shortName": "DD5 SBR",
+        "description": "Daniel Defense DD5 AR-10 platform rifles are premium firearms built for reliability, precision, and durability. They are widely used by military, law enforcement, and civilian shooters."
+      }
+    },
+    "fleaPriceRoubles": 80000,
+    "handbookPriceRoubles": 80000,
+    "addtoBots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+    "addtoTraders": false,
+    "masteries": true,
+    "masterySections": [
+      {
+        "Name": "SR-25",
+        "Templates": [
+          "5447b6194bdc2d67278b4567"
+        ]
+      }
+    ]
+  },
+  "6a62431b3c7edcab8ec0ae51": {
+    "itemTplToClone": "5df8ce05b11454561e39243b",
+    "parentId": "5447b6194bdc2d67278b4567",
+    "handbookParentId": "5b5f791486f774093f2ed3be",
+    "overrideProperties": {
+      "BackgroundColor": "violet",
+      "bFirerate": 850,
+      "MaxDurability": 200,
+      "DurabilityBurnRatio": 0.5,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+      "ExaminedByDefault": true,
+      "weapFireType": [
+        "single",
+        "fullauto"
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense DD5 Forced Recet Trigger (FRT)",
+        "shortName": "DD5 FRT",
+        "description": "Daniel Defense DD5 AR-10 platform rifles are premium firearms built for reliability, precision, and durability. They are widely used by military, law enforcement, and civilian shooters."
+      }
+    },
+    "fleaPriceRoubles": 80000,
+    "handbookPriceRoubles": 80000,
+    "addtoBots": false,
+    "addtoModSlots": false,
+    "addtoStaticLootContainers": false,
+    "addtoTraders": false,
+    "masteries": true,
+    "masterySections": [
+      {
+        "Name": "SR-25",
+        "Templates": [
+          "5447b6194bdc2d67278b4567"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,404 @@
+{
+  "692f0cfecf195edfbaec4b1d": {
+    "itemTplToClone": "55d4b9964bdc2d1d4e8b456e",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "mods/pistol_grips/dd_pistol_grip_black.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.04,
+      "BackgroundColor": "violet",
+      "Ergonomics": 11,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense pistol grip (Black)",
+        "shortName": "DD PG",
+        "description": "The new Daniel Defense pistol grip is an improvement to the old standby A2.  We designed our grip with ergonomics and controllability in mind."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_pistol_grip"
+    ],
+    "fleaPriceRoubles": 14200,
+    "handbookPriceRoubles": 5000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "masteries": true,
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "5447b5f14bdc2d61278b4567"
+        ]
+      }
+    ],
+    "addtoTraders": false
+  },
+  "692f0d10be97d45d404a33fe": {
+    "itemTplToClone": "55d4b9964bdc2d1d4e8b456e",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "mods/pistol_grips/dd_pistol_grip_gray.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.04,
+      "BackgroundColor": "violet",
+      "Ergonomics": 11,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense pistol grip (Gray)",
+        "shortName": "DD PG",
+        "description": "The new Daniel Defense pistol grip is an improvement to the old standby A2.  We designed our grip with ergonomics and controllability in mind."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_pistol_grip"
+    ],
+    "fleaPriceRoubles": 14200,
+    "handbookPriceRoubles": 5000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "masteries": true,
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "5447b5f14bdc2d61278b4567"
+        ]
+      }
+    ],
+    "addtoTraders": false
+  },
+  "692f0d2cf0aef788b0b1fb1a": {
+    "itemTplToClone": "55d4b9964bdc2d1d4e8b456e",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "mods/pistol_grips/dd_pistol_grip_tan.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.04,
+      "BackgroundColor": "violet",
+      "Ergonomics": 11,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense pistol grip (Tan)",
+        "shortName": "DD PG",
+        "description": "The new Daniel Defense pistol grip is an improvement to the old standby A2.  We designed our grip with ergonomics and controllability in mind."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_pistol_grip"
+    ],
+    "fleaPriceRoubles": 15200,
+    "handbookPriceRoubles": 6000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "masteries": true,
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "5447b5f14bdc2d61278b4567"
+        ]
+      }
+    ],
+    "addtoTraders": false
+  },
+  "692f0d3b3cac86824de41811": {
+    "itemTplToClone": "55d4b9964bdc2d1d4e8b456e",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "mods/pistol_grips/dd_pistol_grip_brown.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.04,
+      "BackgroundColor": "violet",
+      "Ergonomics": 11,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense pistol grip (Brown)",
+        "shortName": "DD PG",
+        "description": "The new Daniel Defense pistol grip is an improvement to the old standby A2.  We designed our grip with ergonomics and controllability in mind."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_pistol_grip"
+    ],
+    "fleaPriceRoubles": 15200,
+    "handbookPriceRoubles": 6000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "masteries": true,
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "5447b5f14bdc2d61278b4567"
+        ]
+      }
+    ],
+    "addtoTraders": false
+  },
+  "6a52c6d92a57af04da8f631c": {
+    "itemTplToClone": "5a339805c4a2826c6e06d73d",
+    "parentId": "PISTOLGRIP",
+    "handbookParentId": "MOD_PISTOLGRIP",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "mods/pistol_grips/b5_pgrip.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.04,
+      "BackgroundColor": "violet",
+      "Ergonomics": 11,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "AR-15 B5 Systems Type 22 Pistol Grip enhanced by SOCOM",
+        "shortName": "Type 22 Enhanced",
+        "description": "The B5 Systems Type 22 P-Grip offers an increased vertical grip angle to improve ergonomics and ensure proper trigger index. The lack of a backstrap places the hand higher on the grip for maximum engagement."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_pistol_grip"
+    ],
+    "fleaPriceRoubles": 18000,
+    "handbookPriceRoubles": 3000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "masteries": true,
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "5447b5f14bdc2d61278b4567"
+        ]
+      }
+    ],
+    "addtoTraders": false
+  },
+  "6a52c7d21cedf6d98cb801dd": {
+    "itemTplToClone": "5c6d7b3d2e221600114c9b7d",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/pistol_grips/bcm_mod3_pgrip_blk.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.04,
+      "BackgroundColor": "violet",
+      "Ergonomics": 11,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "AR-15 BCM Mod 3 pistol grip (Black) enhanced by SOCOM",
+        "shortName": "Mod 3 BLK Enhanced",
+        "description": "The BCM Mod 3 pistol grip is an ergonomic AR-15 grip with a reduced angle designed for modern, squared-off shooting stances. It features improved texturing, a beavertail backstrap, and internal storage, offering better control and comfort than the standard A2 grip."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_pistol_grip"
+    ],
+    "fleaPriceRoubles": 7600,
+    "handbookPriceRoubles": 3400,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "masteries": true,
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "5447b5f14bdc2d61278b4567"
+        ]
+      }
+    ],
+    "addtoTraders": false
+  },
+  "6a52c816565b84f3499f1494": {
+    "itemTplToClone": "5c6d7b3d2e221600114c9b7d",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "mods/pistol_grips/bcm_mod3_pgrip_fde.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.04,
+      "BackgroundColor": "violet",
+      "Ergonomics": 11,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "AR-15 BCM Mod 3 pistol grip (FDE) enhanced by SOCOM",
+        "shortName": "Mod 3 FDE Enhanced",
+        "description": "The BCM Mod 3 pistol grip is an ergonomic AR-15 grip with a reduced angle designed for modern, squared-off shooting stances. It features improved texturing, a beavertail backstrap, and internal storage, offering better control and comfort than the standard A2 grip."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_pistol_grip"
+    ],
+    "fleaPriceRoubles": 7600,
+    "handbookPriceRoubles": 3400,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "masteries": true,
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "5447b5f14bdc2d61278b4567"
+        ]
+      }
+    ],
+    "addtoTraders": false
+  },
+  "6a6504439bdd389d093f77c9": {
+    "itemTplToClone": "5a339805c4a2826c6e06d73d",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/PistolGrips/b5_p22_fde_socom.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.04,
+      "BackgroundColor": "violet",
+      "Ergonomics": 11,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "b5 P22 pistol grip (FDE) enhanced by SOCOM",
+        "shortName": "B5 FDE Enhanced",
+        "description": "The B5 Systems P22 Grip is a lightweight, durable pistol grip designed for AR-15 and M4 style rifles. It features a comfortable, ergonomic design with a textured surface for improved grip and control. The P22 Grip is made from high-quality polymer materials, making it resistant to impact and wear. It also includes a storage compartment for small items such as batteries or cleaning supplies. The B5 P22 Grip is easy to install and is compatible with most AR-15 and M4 style rifles, making it a popular choice among shooters looking to enhance the ergonomics and functionality of their firearms. this version is in Flat Dark Earth."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_pistol_grip",
+      "mod_pistolgrip_000"
+    ],
+    "fleaPriceRoubles": 10300,
+    "handbookPriceRoubles": 7140,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "masteries": true,
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "5447b5f14bdc2d61278b4567"
+        ]
+      }
+    ]
+  },
+  "6a65044fbd268858024ff031": {
+    "itemTplToClone": "5a339805c4a2826c6e06d73d",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/PistolGrips/b5_p22_socom.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.04,
+      "BackgroundColor": "violet",
+      "Ergonomics": 11,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false
+    },
+    "locales": {
+      "en": {
+        "name": "b5 P22 pistol grip (BLACK) enhanced by SOCOM",
+        "shortName": "B5 BLACK Enhanced",
+        "description": "The B5 Systems P22 Grip is a lightweight, durable pistol grip designed for AR-15 and M4 style rifles. It features a comfortable, ergonomic design with a textured surface for improved grip and control. The P22 Grip is made from high-quality polymer materials, making it resistant to impact and wear. It also includes a storage compartment for small items such as batteries or cleaning supplies. The B5 P22 Grip is easy to install and is compatible with most AR-15 and M4 style rifles, making it a popular choice among shooters looking to enhance the ergonomics and functionality of their firearms. this version is in Flat Dark Earth."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_pistol_grip",
+      "mod_pistolgrip_000"
+    ],
+    "fleaPriceRoubles": 10300,
+    "handbookPriceRoubles": 7140,
+    "addtoTraders": false,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "masteries": true,
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "5447b5f14bdc2d61278b4567"
+        ]
+      }
+    ]
+  }
+}

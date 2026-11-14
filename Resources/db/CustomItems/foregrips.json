@@ -1,0 +1,404 @@
+{
+  "6a4025c180f5b4c7eae13fe3": {
+    "itemTplToClone": "5c7fc87d2e221644f31c0298",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "Accuracy": 2,
+      "BackgroundColor": "violet",
+      "Ergonomics": 10,
+      "ConflictingItems": [],
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "Recoil": -5
+    },
+    "locales": {
+      "en": {
+        "name": "BCM GUNFIGHTER MOD 3 vertical foregrip enhanced by SOCOM",
+        "shortName": "GF MOD3 Enhanced",
+        "description": "A lightweight polymer tactical grip manufactured by BCM."
+      }
+    },
+    "fleaPriceRoubles": 4777,
+    "handbookPriceRoubles": 3777,
+    "addtoBots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "addtoStaticLootContainers": false,
+    "addtoTraders": false
+  },
+  "6a4025c180f5b4c7eae13fe5": {
+    "itemTplToClone": "665d5d9e338229cfd6078da1",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "Accuracy": 2,
+      "BackgroundColor": "violet",
+      "Ergonomics": 10,
+      "ConflictingItems": [],
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "Recoil": -5
+    },
+    "locales": {
+      "en": {
+        "name": "BCM GUNFIGHTER MOD 3 M-LOK foregrip (Black) enhanced by SOCOM",
+        "shortName": "GF MLOK Enhanced",
+        "description": "A lightweight polymer tactical foregrip. Mounted on handguards with M-LOK interface. Manufactured by Bravo Company Manufacturing. Black color version."
+      }
+    },
+    "fleaPriceRoubles": 4777,
+    "handbookPriceRoubles": 3777,
+    "addtoBots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "addtoStaticLootContainers": false,
+    "addtoTraders": false
+  },
+  "6a4025c180f5b4c7eae13fe7": {
+    "itemTplToClone": "665edce564fb556f940ab32a",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "Accuracy": 2,
+      "BackgroundColor": "violet",
+      "Ergonomics": 10,
+      "ConflictingItems": [],
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "Recoil": -5
+    },
+    "locales": {
+      "en": {
+        "name": "BCM GUNFIGHTER MOD 3 M-LOK foregrip (FDE) enhanced by SOCOM",
+        "shortName": "GF MLOK FDE Enhanced",
+        "description": "A lightweight polymer tactical foregrip. Mounted on handguards with M-LOK interface. Manufactured by Bravo Company Manufacturing. Flat Dark Earth version."
+      }
+    },
+    "fleaPriceRoubles": 4777,
+    "handbookPriceRoubles": 3777,
+    "addtoBots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "addtoStaticLootContainers": false,
+    "addtoTraders": false
+  },
+  "6a617f00702f63fa2cc780d9": {
+    "itemTplToClone": "59fc48e086f77463b1118392",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Attachments/Foregrips/foregrip_all_dd_vfg_blk_socom.bundle",
+        "rcid": ""
+      },
+      "Accuracy": 2,
+      "BackgroundColor": "violet",
+      "Ergonomics": 9,
+      "ConflictingItems": [],
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "Recoil": -5
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense Vertical Foregrip Picatinny Black",
+        "shortName": "DDM4 VFG PT BLK",
+        "description": "The Daniel Defense Vertical Grip includes soft touch rubber overmolding for enhanced grip, wet or dry."
+      }
+    },
+    "fleaPriceRoubles": 4777,
+    "handbookPriceRoubles": 3777,
+    "addtoBots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "addtoStaticLootContainers": false,
+    "addtoTraders": false
+  },
+  "6a617f3a42bd67d4822519c4": {
+    "itemTplToClone": "59fc48e086f77463b1118392",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Attachments/Foregrips/foregrip_all_dd_vfg_fde_socom.bundle",
+        "rcid": ""
+      },
+      "Accuracy": 2,
+      "BackgroundColor": "violet",
+      "Ergonomics": 9,
+      "ConflictingItems": [],
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "Recoil": -5
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense Vertical Foregrip Picatinny MIL SPEC+",
+        "shortName": "DDM4 VFG PT FDE",
+        "description": "The Daniel Defense Vertical Grip includes soft touch rubber overmolding for enhanced grip, wet or dry."
+      }
+    },
+    "fleaPriceRoubles": 4777,
+    "handbookPriceRoubles": 3777,
+    "addtoBots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "addtoStaticLootContainers": false,
+    "addtoTraders": false
+  },
+  "6a617f73e4fc3f2787a88d36": {
+    "itemTplToClone": "59fc48e086f77463b1118392",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Attachments/Foregrips/foregrip_all_dd_vfg_gry_socom.bundle",
+        "rcid": ""
+      },
+      "Accuracy": 2,
+      "BackgroundColor": "violet",
+      "Ergonomics": 9,
+      "ConflictingItems": [],
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "Recoil": -5
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense Vertical Foregrip Picatinny TORNADO",
+        "shortName": "DDM4 VFG PT TORNADO",
+        "description": "The Daniel Defense Vertical Grip includes soft touch rubber overmolding for enhanced grip, wet or dry."
+      }
+    },
+    "fleaPriceRoubles": 4777,
+    "handbookPriceRoubles": 3777,
+    "addtoBots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "addtoStaticLootContainers": false,
+    "addtoTraders": false
+  },
+  "692f0cc3192ad3dee0f23f56": {
+    "itemTplToClone": "651a8bf3a8520e48047bf708",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "Accuracy": 2,
+      "BackgroundColor": "violet",
+      "Ergonomics": 10,
+      "ConflictingItems": [],
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "Recoil": -5
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense M-LOK Vertical Foregrip Black",
+        "shortName": "DDM4 VFG BLK",
+        "description": "The lightweight, durable Daniel Defense Vertical Foregrip is constructed of a proprietary blend of glass-infused polymers and finished off with soft-touch rubber overmolding on both sides for a secure, comfortable grip. It utilizes the M-LOK attachment system to quickly and securely attach to lightweight M-LOK rails. Its slim, hollow design and non-conductive properties provide superb ergonomics and weapon control."
+      }
+    },
+    "fleaPriceRoubles": 4777,
+    "handbookPriceRoubles": 3777,
+    "addtoBots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "addtoStaticLootContainers": false,
+    "addtoTraders": false
+  },
+  "692f0ce96d1fa8fa6b93cbbb": {
+    "itemTplToClone": "651a8e529829226ceb67c319",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "Accuracy": 2,
+      "BackgroundColor": "violet",
+      "Ergonomics": 10,
+      "ConflictingItems": [],
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "Recoil": -5
+    },
+    "locales": {
+      "en": {
+        "name": "Daniel Defense M-LOK Vertical Foregrip Brown",
+        "shortName": "DDM4 VFG BRN",
+        "description": "The lightweight, durable Daniel Defense Vertical Foregrip is constructed of a proprietary blend of glass-infused polymers and finished off with soft-touch rubber overmolding on both sides for a secure, comfortable grip. It utilizes the M-LOK attachment system to quickly and securely attach to lightweight M-LOK rails. Its slim, hollow design and non-conductive properties provide superb ergonomics and weapon control."
+      }
+    },
+    "fleaPriceRoubles": 4777,
+    "handbookPriceRoubles": 3777,
+    "addtoBots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "addtoStaticLootContainers": false,
+    "addtoTraders": false
+  },
+  "6934860237824f28385cc896": {
+    "itemTplToClone": "661e52e29c8b4dadef008577",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "Accuracy": 2,
+      "BackgroundColor": "violet",
+      "Ergonomics": 8,
+      "ConflictingItems": [],
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "Recoil": -5
+    },
+    "locales": {
+      "en": {
+        "name": "TangoDown BGV-QDITI foregrip (Black) enhanced by SOCOM",
+        "shortName": "BGV-QDITI Enhanced",
+        "description": "The BGV-QDITI vertical grip with a compartment for batteries or small items. Manufactured by TangoDown. Black version."
+      }
+    },
+    "fleaPriceRoubles": 4777,
+    "handbookPriceRoubles": 3777,
+    "addtoBots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "addtoStaticLootContainers": false,
+    "addtoTraders": false
+  },
+  "693486608bbace60fef75024": {
+    "itemTplToClone": "661e53149c8b4dadef008579",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "Accuracy": 2,
+      "BackgroundColor": "violet",
+      "Ergonomics": 8,
+      "ConflictingItems": [],
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "Recoil": -5
+    },
+    "locales": {
+      "en": {
+        "name": "TangoDown BGV-QDITI foregrip (FDE) enhanced by SOCOM",
+        "shortName": "BGV-QDITI FDE Enhanced",
+        "description": "The BGV-QDITI vertical grip with a compartment for batteries or small items. Manufactured by TangoDown. Black version."
+      }
+    },
+    "fleaPriceRoubles": 4777,
+    "handbookPriceRoubles": 3777,
+    "addtoBots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "addtoStaticLootContainers": false,
+    "addtoTraders": false
+  },
+  "693486608bbace60fef75024": {
+    "itemTplToClone": "661e53149c8b4dadef008579",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "Accuracy": 2,
+      "BackgroundColor": "violet",
+      "Ergonomics": 8,
+      "ConflictingItems": [],
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "Recoil": -5
+    },
+    "locales": {
+      "en": {
+        "name": "TangoDown BGV-QDITI foregrip (FDE) enhanced by SOCOM",
+        "shortName": "BGV-QDITI FDE Enhanced",
+        "description": "The BGV-QDITI vertical grip with a compartment for batteries or small items. Manufactured by TangoDown. Black version."
+      }
+    },
+    "fleaPriceRoubles": 4777,
+    "handbookPriceRoubles": 3777,
+    "addtoBots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "addtoStaticLootContainers": false,
+    "addtoTraders": false
+  },
+  "6a64f7fa39369302d96fd030": {
+    "itemTplToClone": "59fc48e086f77463b1118392",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "Accuracy": 2,
+      "BackgroundColor": "violet",
+      "Ergonomics": 10,
+      "ConflictingItems": [],
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "Recoil": -5
+    },
+    "locales": {
+      "en": {
+        "name": "Magpul RVG foregrip (Black) enhanced by SOCOM",
+        "shortName": "RVG BLK Enhanced",
+        "description": "The Magpul RVG (Rail Vertical Grip) tactical grip. A common, unsophisticated, inexpensive, and ergonomically shaped vertical foregrip."
+      }
+    },
+    "fleaPriceRoubles": 4777,
+    "handbookPriceRoubles": 3777,
+    "addtoBots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "addtoStaticLootContainers": false,
+    "addtoTraders": false
+  },
+  "6a64f8701c86b3728ebee511": {
+    "itemTplToClone": "5fce0cf655375d18a253eff0",
+    "parentId": "55818af64bdc2d5b648b4570",
+    "handbookParentId": "5b5f71de86f774093f2ecf13",
+    "overrideProperties": {
+      "Accuracy": 2,
+      "BackgroundColor": "violet",
+      "Ergonomics": 10,
+      "ConflictingItems": [],
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "Recoil": -5
+    },
+    "locales": {
+      "en": {
+        "name": "Magpul RVG foregrip (FDE) enhanced by SOCOM",
+        "shortName": "RVG FDE Enhanced",
+        "description": "The Magpul RVG (Rail Vertical Grip) tactical grip. A common, unsophisticated, inexpensive, and ergonomically shaped vertical foregrip."
+      }
+    },
+    "fleaPriceRoubles": 4777,
+    "handbookPriceRoubles": 3777,
+    "addtoBots": false,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_foregrip"
+    ],
+    "addtoStaticLootContainers": false,
+    "addtoTraders": false
+  }
+}
