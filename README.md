@@ -15,6 +15,10 @@ No other gameplay changes are intended.
 
 Download the **player release archive** from the Forge, not this source repository. Extract into the directory containing `SPT_Runtime`, resulting in `SPT_Runtime/user/mods/SOCOM/`. Install the dependencies listed on the Forge page.
 
+## Source status
+
+**Incomplete source snapshot:** The C# code and project file have been published, but the original resource files (JSON data, quest images, and Unity bundles) are not yet in this repository. The player release remains separate. Do not use this repository alone as a complete source distribution until the resources have been added.
+
 ## Source and building
 
 The source project targets SPT 4.1.6 and requires the matching SPT development assemblies and WTT CommonLib references. See `SOCOM.csproj` and the source archive's build guidance for project-specific details. Third-party reference DLLs are intentionally not distributed here.
