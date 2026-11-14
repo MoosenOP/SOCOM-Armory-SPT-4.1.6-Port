@@ -17,11 +17,11 @@ Download the **player release archive** from the Forge, not this source reposito
 
 ## Source status
 
-**Incomplete source snapshot:** The C# code and project file have been published, but the original resource files (JSON data, quest images, and Unity bundles) are not yet in this repository. The player release remains separate. Do not use this repository alone as a complete source distribution until the resources have been added.
+The C# source, project file, and original `Resources` tree (JSON data, quest images, and Unity bundles) are published in this repository. The tested player release is distributed separately.
 
 ## Source and building
 
-The source project targets SPT 4.1.6 and requires the matching SPT development assemblies and WTT CommonLib references. See `SOCOM.csproj` and the source archive's build guidance for project-specific details. Third-party reference DLLs are intentionally not distributed here.
+The source project targets SPT 4.1.6 and requires the matching SPT development assemblies and WTT CommonLib references. See [`BUILDING.md`](BUILDING.md) and `SOCOM.csproj` for build guidance. Third-party reference DLLs are intentionally not distributed here.
 
 **Note:** The correspondence between the published source and the tested compiled DLL has not yet been independently verified by a reproducible build.
 
